@@ -84,7 +84,7 @@ const EducationSection = () => {
                 <GraduationCap size={22} className="text-primary" />
               </div>
               <div>
-                <h3 className="font-heading font-semibold text-lg text-foreground">Class XII (CBSE)</h3>
+                <h3 className="font-heading font-semibold text-lg text-foreground">Class XII (TSBIE)</h3>
                 <p className="text-muted-foreground text-sm">Senior Secondary Education</p>
                 <span className="text-primary font-medium text-sm">93.87%</span>
               </div>
